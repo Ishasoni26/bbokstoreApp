@@ -1,0 +1,66 @@
+[
+  {
+    "id":1,
+    "name":"Drama",
+    "Title":"lorem12",
+    "price":99 ,
+    "category": "Free",
+    "image":"https://i0.wp.com/literary-dates.com/wp-content/uploads/2022/07/AC4A6693-F009-4566-BE53-5508D597E4BD.jpeg"
+  },
+  {
+    "id":2,
+    "name":"Comedy",
+    "Title":"lorem12",
+    "price":30,
+    "category": "Book",
+    "image":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/jokes-comedy-book-cover-design-template-686217ed23182842d6a1754566528e1a_screen.jpg?ts=1683021617"
+  },
+  {
+    "id":3,
+    "name":"Geography",
+    "Title":"lorem12",
+    "price":58,
+    "category": "Book",
+    "image":"https://i.pinimg.com/736x/4e/6a/3a/4e6a3a700b3146c1c406f50ea928e3c9.jpg"
+  },
+  {
+    "id":4,
+    "name":"Story",
+    "Title":"lorem12",
+    "price":60,
+    "category": "Free",
+    "image":"https://img.freepik.com/premium-vector/horror-book-cover-design-illustration_619130-639.jpg"
+  },
+  {
+    "id":5,
+    "name":"Sports",
+    "Title":"lorem12",
+    "price":50,
+    "category": "Free",
+    "image":"https://images-platform.99static.com//oURf6aWrveR-R6ltzt7vTuNgbBE=/0x0:2040x2040/fit-in/500x500/99designs-contests-attachments/83/83980/attachment_83980409"
+  },
+  {
+    "id":6,
+    "name":"Horror",
+    "Title":"lorem12",
+    "price":70,
+    "category": "Book",
+    "image":"https://img.freepik.com/premium-vector/horror-book-cover-design-illustration_619130-639.jpg"
+  },
+  {
+    "id":7,
+    "name":"Motivational",
+    "Title":"lorem12",
+    "price":60,
+    "category": "Free",
+    "image":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/motivational-self-help-book-cover-design-template-549362a7c9d568279e866eb81510239c_screen.jpg?ts=1704115831"
+  },
+  {
+    "id":8,
+    "name":"History",
+    "Title": "lorem12" ,
+    "price":30,
+    "category": "Free",
+    "image":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/roman-history-book-cover-design-template-48914ad1e972113cd5e8508a05ad2904_screen.jpg?ts=1698339649"
+  }
+]
